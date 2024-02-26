@@ -1,0 +1,10 @@
+Name,Age,Salary,Gender,Education,Label
+John,NaN,NaN,Male,Bachelor,Positive
+Jane,NaN,60000,Female,Master,Positive
+Bob,30,NaN,Male,PhD,Negative
+Alice,28,55000,Female,NaN,Negative
+Charlie,35,70000,NaN,Bachelor,Positive
+Dave,32,65000,Male,Master,Positive
+Eve,27,NaN,Female,PhD,Negative
+Frank,33,75000,Male,NaN,Negative
+Grace,29,62000,Female,Master,Positive
